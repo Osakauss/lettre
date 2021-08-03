@@ -1,2 +1,2 @@
 # lettre
-Boot Protocal used by primum
+Boot Protocol used by primum
